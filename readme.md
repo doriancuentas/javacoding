@@ -1,1 +1,5 @@
-This repository contains java snipped source code to test some core language concepts
+
+This repository contains java snipped source code to test some core language concepts.
+
+Current topics:
+* Concurrency
